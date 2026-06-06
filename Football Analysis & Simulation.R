@@ -153,7 +153,7 @@ plot_5 <- plot5_1/ plot5_2
 print(plot_5)
 
 #LINEAR REGRESSION
-lm_full <- lm(composite_score ~ goal_diff_per_games + cleansheet_pct + win_rate + wc_appearances + recent_win_rate + wc2022_stage, data = master)
+lm_full <- lm(composite_score ~ goal_diff_per_game + cleansheet_pct + win_rate + wc_appearances + recent_win_rate + wc2022_stage, data = master)
 print(summary(lm_full))
 
 print(vif(lm_full))
