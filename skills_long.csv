@@ -1,0 +1,109 @@
+Nation,Skill,Rating,Flag,Nation with Flag
+France,PAC,80.7,🇫🇷,🇫🇷 France
+England,PAC,77.0,🏴󠁧󠁢󠁥󠁮󠁧󠁿,🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+Brazil,PAC,78.8,🇧🇷,🇧🇷 Brazil
+Germany,PAC,73.7,🇩🇪,🇩🇪 Germany
+Spain,PAC,74.8,🇪🇸,🇪🇸 Spain
+Portugal,PAC,76.1,🇵🇹,🇵🇹 Portugal
+Argentina,PAC,75.0,🇦🇷,🇦🇷 Argentina
+Croatia,PAC,71.0,🇭🇷,🇭🇷 Croatia
+Morocco,PAC,74.3,🇲🇦,🇲🇦 Morocco
+Japan,PAC,77.9,🇯🇵,🇯🇵 Japan
+Senegal,PAC,75.7,🇸🇳,🇸🇳 Senegal
+United States,PAC,78.0,🇺🇸,🇺🇸 United States
+South Korea,PAC,75.5,🇰🇷,🇰🇷 South Korea
+Australia,PAC,70.5,🇦🇺,🇦🇺 Australia
+Mexico,PAC,71.5,🇲🇽,🇲🇽 Mexico
+Iran,PAC,71.6,🇮🇷,🇮🇷 Iran
+New Zealand,PAC,68.7,🇳🇿,🇳🇿 New Zealand
+Netherlands,PAC,72.3,🇳🇱,🇳🇱 Netherlands
+France,SHO,70.2,🇫🇷,🇫🇷 France
+England,SHO,71.3,🏴󠁧󠁢󠁥󠁮󠁧󠁿,🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+Brazil,SHO,72.4,🇧🇷,🇧🇷 Brazil
+Germany,SHO,74.3,🇩🇪,🇩🇪 Germany
+Spain,SHO,72.2,🇪🇸,🇪🇸 Spain
+Portugal,SHO,72.4,🇵🇹,🇵🇹 Portugal
+Argentina,SHO,73.7,🇦🇷,🇦🇷 Argentina
+Croatia,SHO,68.8,🇭🇷,🇭🇷 Croatia
+Morocco,SHO,68.4,🇲🇦,🇲🇦 Morocco
+Japan,SHO,63.1,🇯🇵,🇯🇵 Japan
+Senegal,SHO,64.5,🇸🇳,🇸🇳 Senegal
+United States,SHO,61.4,🇺🇸,🇺🇸 United States
+South Korea,SHO,68.1,🇰🇷,🇰🇷 South Korea
+Australia,SHO,60.0,🇦🇺,🇦🇺 Australia
+Mexico,SHO,58.2,🇲🇽,🇲🇽 Mexico
+Iran,SHO,58.9,🇮🇷,🇮🇷 Iran
+New Zealand,SHO,58.1,🇳🇿,🇳🇿 New Zealand
+Netherlands,SHO,55.0,🇳🇱,🇳🇱 Netherlands
+France,PAS,76.3,🇫🇷,🇫🇷 France
+England,PAS,79.1,🏴󠁧󠁢󠁥󠁮󠁧󠁿,🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+Brazil,PAS,77.1,🇧🇷,🇧🇷 Brazil
+Germany,PAS,78.3,🇩🇪,🇩🇪 Germany
+Spain,PAS,79.7,🇪🇸,🇪🇸 Spain
+Portugal,PAS,78.7,🇵🇹,🇵🇹 Portugal
+Argentina,PAS,77.3,🇦🇷,🇦🇷 Argentina
+Croatia,PAS,72.8,🇭🇷,🇭🇷 Croatia
+Morocco,PAS,71.1,🇲🇦,🇲🇦 Morocco
+Japan,PAS,68.7,🇯🇵,🇯🇵 Japan
+Senegal,PAS,66.4,🇸🇳,🇸🇳 Senegal
+United States,PAS,67.7,🇺🇸,🇺🇸 United States
+South Korea,PAS,67.4,🇰🇷,🇰🇷 South Korea
+Australia,PAS,63.7,🇦🇺,🇦🇺 Australia
+Mexico,PAS,61.9,🇲🇽,🇲🇽 Mexico
+Iran,PAS,63.0,🇮🇷,🇮🇷 Iran
+New Zealand,PAS,61.3,🇳🇿,🇳🇿 New Zealand
+Netherlands,PAS,59.8,🇳🇱,🇳🇱 Netherlands
+France,DRI,80.9,🇫🇷,🇫🇷 France
+England,DRI,81.4,🏴󠁧󠁢󠁥󠁮󠁧󠁿,🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+Brazil,DRI,81.1,🇧🇷,🇧🇷 Brazil
+Germany,DRI,79.5,🇩🇪,🇩🇪 Germany
+Spain,DRI,81.5,🇪🇸,🇪🇸 Spain
+Portugal,DRI,81.7,🇵🇹,🇵🇹 Portugal
+Argentina,DRI,80.6,🇦🇷,🇦🇷 Argentina
+Croatia,DRI,77.7,🇭🇷,🇭🇷 Croatia
+Morocco,DRI,76.7,🇲🇦,🇲🇦 Morocco
+Japan,DRI,74.3,🇯🇵,🇯🇵 Japan
+Senegal,DRI,73.8,🇸🇳,🇸🇳 Senegal
+United States,DRI,74.3,🇺🇸,🇺🇸 United States
+South Korea,DRI,74.0,🇰🇷,🇰🇷 South Korea
+Australia,DRI,67.6,🇦🇺,🇦🇺 Australia
+Mexico,DRI,67.9,🇲🇽,🇲🇽 Mexico
+Iran,DRI,68.0,🇮🇷,🇮🇷 Iran
+New Zealand,DRI,65.5,🇳🇿,🇳🇿 New Zealand
+Netherlands,DRI,67.8,🇳🇱,🇳🇱 Netherlands
+France,DEF,63.5,🇫🇷,🇫🇷 France
+England,DEF,65.4,🏴󠁧󠁢󠁥󠁮󠁧󠁿,🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+Brazil,DEF,62.6,🇧🇷,🇧🇷 Brazil
+Germany,DEF,63.8,🇩🇪,🇩🇪 Germany
+Spain,DEF,65.3,🇪🇸,🇪🇸 Spain
+Portugal,DEF,63.1,🇵🇹,🇵🇹 Portugal
+Argentina,DEF,63.0,🇦🇷,🇦🇷 Argentina
+Croatia,DEF,59.8,🇭🇷,🇭🇷 Croatia
+Morocco,DEF,53.4,🇲🇦,🇲🇦 Morocco
+Japan,DEF,58.9,🇯🇵,🇯🇵 Japan
+Senegal,DEF,56.0,🇸🇳,🇸🇳 Senegal
+United States,DEF,61.4,🇺🇸,🇺🇸 United States
+South Korea,DEF,50.3,🇰🇷,🇰🇷 South Korea
+Australia,DEF,58.0,🇦🇺,🇦🇺 Australia
+Mexico,DEF,54.2,🇲🇽,🇲🇽 Mexico
+Iran,DEF,54.0,🇮🇷,🇮🇷 Iran
+New Zealand,DEF,54.5,🇳🇿,🇳🇿 New Zealand
+Netherlands,DEF,48.8,🇳🇱,🇳🇱 Netherlands
+France,PHY,76.5,🇫🇷,🇫🇷 France
+England,PHY,75.0,🏴󠁧󠁢󠁥󠁮󠁧󠁿,🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+Brazil,PHY,76.1,🇧🇷,🇧🇷 Brazil
+Germany,PHY,77.2,🇩🇪,🇩🇪 Germany
+Spain,PHY,74.5,🇪🇸,🇪🇸 Spain
+Portugal,PHY,74.7,🇵🇹,🇵🇹 Portugal
+Argentina,PHY,76.4,🇦🇷,🇦🇷 Argentina
+Croatia,PHY,73.7,🇭🇷,🇭🇷 Croatia
+Morocco,PHY,72.0,🇲🇦,🇲🇦 Morocco
+Japan,PHY,69.0,🇯🇵,🇯🇵 Japan
+Senegal,PHY,72.2,🇸🇳,🇸🇳 Senegal
+United States,PHY,72.3,🇺🇸,🇺🇸 United States
+South Korea,PHY,71.8,🇰🇷,🇰🇷 South Korea
+Australia,PHY,73.0,🇦🇺,🇦🇺 Australia
+Mexico,PHY,68.9,🇲🇽,🇲🇽 Mexico
+Iran,PHY,70.4,🇮🇷,🇮🇷 Iran
+New Zealand,PHY,70.2,🇳🇿,🇳🇿 New Zealand
+Netherlands,PHY,60.9,🇳🇱,🇳🇱 Netherlands

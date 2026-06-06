@@ -1,0 +1,49 @@
+Group,Team,Predicted Finish,Composite Score,Confederation,Status,Flag,Team with Flag
+Group A,South Korea,1,0.48,AFC,1st — Advances,🇰🇷,🇰🇷 South Korea
+Group A,Mexico,2,0.479,CONCACAF,2nd — Advances,🇲🇽,🇲🇽 Mexico
+Group A,Czech Republic,3,0.287,UEFA,3rd — Advances,🇨🇿,🇨🇿 Czech Republic
+Group A,South Africa,4,0.236,CAF,4th — Eliminated,🇿🇦,🇿🇦 South Africa
+Group B,Switzerland,1,0.469,UEFA,1st — Advances,🇨🇭,🇨🇭 Switzerland
+Group B,Canada,2,0.327,CONCACAF,2nd — Advances,🇨🇦,🇨🇦 Canada
+Group B,Qatar,3,0.228,AFC,3rd — Advances,🇶🇦,🇶🇦 Qatar
+Group B,Bosnia and Herzegovina,4,0.179,UEFA,4th — Eliminated,🇧🇦,🇧🇦 Bosnia and Herzegovina
+Group C,Brazil,1,0.626,CONMEBOL,1st — Advances,🇧🇷,🇧🇷 Brazil
+Group C,Morocco,2,0.611,CAF,2nd — Advances,🇲🇦,🇲🇦 Morocco
+Group C,Scotland,3,0.279,UEFA,3rd — Eliminated,🏴󠁧󠁢󠁳󠁣󠁴󠁿,🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
+Group C,Haiti,4,0.242,CONCACAF,4th — Eliminated,🇭🇹,🇭🇹 Haiti
+Group D,Australia,1,0.502,AFC,1st — Advances,🇦🇺,🇦🇺 Australia
+Group D,United States,2,0.47,CONCACAF,2nd — Advances,🇺🇸,🇺🇸 United States
+Group D,Turkey,3,0.348,UEFA,3rd — Advances,🇹🇷,🇹🇷 Turkey
+Group D,Paraguay,4,0.073,CONMEBOL,4th — Eliminated,🇵🇾,🇵🇾 Paraguay
+Group E,Germany,1,0.665,UEFA,1st — Advances,🇩🇪,🇩🇪 Germany
+Group E,Ivory Coast,2,0.473,CAF,2nd — Advances,🇨🇮,🇨🇮 Ivory Coast
+Group E,Ecuador,3,0.18,CONMEBOL,3rd — Advances,🇪🇨,🇪🇨 Ecuador
+Group E,Curacao,4,0.099,CONCACAF,4th — Eliminated,🇨🇼,🇨🇼 Curacao
+Group F,Netherlands,1,0.69,UEFA,1st — Advances,🇳🇱,🇳🇱 Netherlands
+Group F,Japan,2,0.573,AFC,2nd — Advances,🇯🇵,🇯🇵 Japan
+Group F,Tunisia,3,0.388,CAF,3rd — Advances,🇹🇳,🇹🇳 Tunisia
+Group F,Sweden,4,0.315,UEFA,4th — Eliminated,🇸🇪,🇸🇪 Sweden
+Group G,Belgium,1,0.541,UEFA,1st — Advances,🇧🇪,🇧🇪 Belgium
+Group G,Iran,2,0.523,AFC,2nd — Advances,🇮🇷,🇮🇷 Iran
+Group G,Egypt,3,0.39,CAF,3rd — Advances,🇪🇬,🇪🇬 Egypt
+Group G,New Zealand,4,0.377,OFC,4th — Eliminated,🇳🇿,🇳🇿 New Zealand
+Group H,Spain,1,0.819,UEFA,1st — Advances,🇪🇸,🇪🇸 Spain
+Group H,Uruguay,2,0.379,CONMEBOL,2nd — Advances,🇺🇾,🇺🇾 Uruguay
+Group H,Saudi Arabia,3,0.285,AFC,3rd — Eliminated,🇸🇦,🇸🇦 Saudi Arabia
+Group H,Cape Verde,4,0.19,CAF,4th — Eliminated,🇨🇻,🇨🇻 Cape Verde
+Group I,France,1,0.756,UEFA,1st — Advances,🇫🇷,🇫🇷 France
+Group I,Senegal,2,0.501,CAF,2nd — Advances,🇸🇳,🇸🇳 Senegal
+Group I,Norway,3,0.382,UEFA,3rd — Eliminated,🇳🇴,🇳🇴 Norway
+Group I,Iraq,4,0.2,AFC,4th — Eliminated,🇮🇶,🇮🇶 Iraq
+Group J,Argentina,1,0.769,CONMEBOL,1st — Advances,🇦🇷,🇦🇷 Argentina
+Group J,Algeria,2,0.416,CAF,2nd — Advances,🇩🇿,🇩🇿 Algeria
+Group J,Austria,3,0.289,UEFA,3rd — Advances,🇦🇹,🇦🇹 Austria
+Group J,Jordan,4,0.286,AFC,4th — Eliminated,🇯🇴,🇯🇴 Jordan
+Group K,Portugal,1,0.725,UEFA,1st — Advances,🇵🇹,🇵🇹 Portugal
+Group K,Uzbekistan,2,0.364,AFC,2nd — Advances,🇺🇿,🇺🇿 Uzbekistan
+Group K,Colombia,3,0.313,CONMEBOL,3rd — Advances,🇨🇴,🇨🇴 Colombia
+Group K,DR Congo,4,0.241,CAF,4th — Eliminated,🇨🇩,🇨🇩 DR Congo
+Group L,England,1,0.795,UEFA,1st — Advances,🏴󠁧󠁢󠁥󠁮󠁧󠁿,🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+Group L,Croatia,2,0.604,UEFA,2nd — Advances,🇭🇷,🇭🇷 Croatia
+Group L,Ghana,3,0.333,CAF,3rd — Eliminated,🇬🇭,🇬🇭 Ghana
+Group L,Panama,4,0.216,CONCACAF,4th — Eliminated,🇵🇦,🇵🇦 Panama
